@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59eeaf19f2d650b4bba08d583665fcf8, type: 3}
+  m_Name: MiningLevel_2
+  m_EditorClassIdentifier: 
+  levelName: lv2
+  workerPrefab: {fileID: 4494764123146951504, guid: db25f99c5785b44449703e99154f1bba,
+    type: 3}
+  miningSpeed: 2
+  miningDamage: 3
+  maxCarryCount: 10
+  miningRadius: 2
+  autoMiningInterval: 0.5
+  upgradeCost: 30
